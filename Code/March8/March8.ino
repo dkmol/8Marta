@@ -1,5 +1,7 @@
 //https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use
 //http://forum.amperka.ru/threads/Переключение-между-режимами-на-ws2812b.7574/
+//из мастера
+//rename+
 #include <Adafruit_NeoPixel.h>
 
 #define   LEDS_PIN             6
